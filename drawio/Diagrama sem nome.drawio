@@ -4,14 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="ahaWqb2le40w-05425Oi-1" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.s3;" value="Amazon S3" vertex="1">
-          <mxGeometry height="100" width="80" x="470" y="470" as="geometry" />
-        </mxCell>
-        <mxCell id="ahaWqb2le40w-05425Oi-2" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.bucket;" value="Bucket" vertex="1">
-          <mxGeometry height="90" width="90" x="460" y="220" as="geometry" />
-        </mxCell>
-        <mxCell id="XxIR-Og_50OQb7vSWqrp-1" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.archive;" value="Archive" vertex="1">
-          <mxGeometry height="130" width="130" x="260" y="220" as="geometry" />
+        <mxCell id="XxIR-Og_50OQb7vSWqrp-3" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#232F3E;fillColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.bucket;" value="Bucket" vertex="1">
+          <mxGeometry height="60" width="60" x="310" y="230" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
